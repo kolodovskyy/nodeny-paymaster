@@ -1,0 +1,108 @@
+.ukrindex-text-red {
+  color: #981b1e
+}
+.ukrindex-text-blue {
+  color: #005b99
+}
+.ukrindex-text-center {
+  text-align: center;
+}
+
+.ukrindex-message {
+  border: 0;
+  padding: 0;
+  margin: 10px 25px 10px 25px;
+  font-size: 10pt;
+}
+
+table.ukrindex-container {
+  border: 0;
+  padding: 0;
+  width: 100%;
+}
+
+table.ukrindex-container td {
+  vertical-align: top;
+  padding: 5px 10px 5px 10px;
+}
+
+table.ukrindex {
+  box-shadow: 0 1px 10px rgba(0,0,0,0.2);
+  border-radius: 6px;
+  background-color: #fff;
+  width: 100%;
+  min-width: 200px;
+  font-size: 10pt;
+}
+
+table.ukrindex td,th {
+  padding: 10px;
+  margin: 0;
+}
+
+table.ukrindex hr {
+  color: #005b99;
+  background-color: #005b99;
+  border: 0 none;
+  height: 1px;
+  clear: both;
+}
+
+table.ukrindex td p {
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+table.ukrindex h1,h2,h3,h4,h5,h6 {
+  color: #005b99;
+}
+
+table.ukrindex td.ukrindex-link {
+  padding: 5px;
+}
+
+table.ukrindex td.ukrindex-link a {
+  display: block;
+  border: 1px solid #005b99;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #d9edf7;
+  color: #005b99;
+}
+
+table.ukrindex td.ukrindex-link a:hover {
+  color: #005b99;
+}
+
+table.ukrindex form {
+  margin: 10px;
+}
+
+table.ukrindex form input {
+  color: #660000;
+  background-color: #fff;
+  border: 1px solid #005b99;
+  border-radius: 6px;
+  font-size: 10pt;
+  padding: 5px;
+}
+
+table.ukrindex form input.ukrindex_paymaster_amount {
+  width: 150px;
+  border: 1px solid #005b99;
+  border-radius: 6px;
+  text-align: center;
+}
+
+
+table.ukrindex form input.ukrindex_paymaster_submit {
+  font-weight: bold;
+  width: 150px;
+  background-color: #d9edf7;
+  color: #005b99;
+}
+
+table.ukrindex form input.ukrindex_paymaster_submit:hover {
+  background-color: #005b99;
+  color: #fff;
+}
