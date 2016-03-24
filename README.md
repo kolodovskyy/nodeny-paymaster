@@ -12,7 +12,7 @@
   чтобы корректно отображались платежные категории
 - Скопировать Spaymaster.pl в директорию /usr/local/nodeny/web
 - Изменить MERCHANT_ID в скрипте Spaymaster.pl
-- Изменить STAT_HOST в скрипте Spaymaster.pl на реальный хост статистики (например, stat.provider.ua)
+- Изменить STAT_URL в скрипте Spaymaster.pl на реальный хост статистики (например, http://stat.provider.ua, БЕЗ /cgi-bin/stat.pl)
 - В административной панели биллинга добавить модуль Spaymaster
 - В клиентской статистике должен появиться новый раздел
 
